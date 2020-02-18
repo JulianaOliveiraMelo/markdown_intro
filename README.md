@@ -134,3 +134,15 @@ Notions:
    * ```app```
    * la méthode ```init```
    * les callbacks d'événement
+
+
+11. ### Pair Programing 
+12. ### Toujours plus loin  
+
+Lien vers le challenge: [Challenge Invader](https://github.com/JulianaOliveiraMelo/challenge_invader)   
+
+Notions:  
+ * ClassList
+ * ```for``` dans un ```for```
+ * ```forEach``` dans les tableaux
+
