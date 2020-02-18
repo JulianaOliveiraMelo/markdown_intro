@@ -22,7 +22,8 @@
 Possibilité de voir tout ou long de ce document
 
 2. ### L'architecte et le décorateur  
-Lien vers le challenge:  [Recette de Pancakes](https://github.com/JulianaOliveiraMelo/challenge_recette_pancakes)
+Lien vers le challenge:  [Recette de Pancakes](https://github.com/JulianaOliveiraMelo/challenge_recette_pancakes)  
+
 Notions: 
 * HTML
   * sémantique
@@ -32,4 +33,14 @@ Notions:
   * présentation
   * front-*, background-color, border, etc.
   * spécifité des sélecteurs
-  * le " . " pour classes, " # " pour id
+  * le " . " pour classes, " # " pour id  
+
+3. ### Box model  
+Lien vers le challenge: [Box Model](https://github.com/JulianaOliveiraMelo/challenge_box_model) 
+
+Notions:  
+ * Comment structurer sa page à l'aide de balises sémantiques
+ * La différence entre ```block``` et ```inline```
+ * Plus de propriétés css
+ * L'usage de ```<img>```
+ * Le Box Model !
