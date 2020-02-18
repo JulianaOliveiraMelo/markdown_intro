@@ -1,4 +1,4 @@
-# **Presentation**
+# **Présentation**
 
 **Prénom** : Juliana  
 **Nom** : Oliveira Melo  
@@ -72,8 +72,22 @@ Notions:
 
 6. ### Challenge Paire Programing
 7. ### Forms
+
+#### Les challenges 6 et 7 ont étais faits dans le même repos
 Lien vers le challenge: [Forms](https://github.com/JulianaOliveiraMelo/challenge_forms)  
 
 Notions:  
 * Les formulaires HTML
 * Un peu plus de CSS
+
+
+8. ### Responsive Web Design en atelier Solo
+Lien vers le challenge: [Responsive Design](https://github.com/JulianaOliveiraMelo/challenge_solo_html_css) 
+
+Notions:  
+ * Responsive Web Design
+ * Media Queries
+ * Avantages du design "mobile first"  
+
+ Travailler sur un repos déjà démarré par quelqu'un d'autre et faire les modifications demandées plus responsive
+
