@@ -44,3 +44,15 @@ Notions:
  * Plus de propriétés css
  * L'usage de ```<img>```
  * Le Box Model !
+
+
+4. ### Layout  
+Lien vers le challenge: [Box Model](https://github.com/JulianaOliveiraMelo/challenge_layout) 
+
+Notions:  
+ * De nouvelles balises: ```aside``` et ```article```
+ * mettre les éléments les uns à côtés des autres  
+   * ```float: left;```
+   * ```display: inline-block;```
+   * ```display: flex;```
+
