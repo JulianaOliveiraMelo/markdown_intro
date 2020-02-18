@@ -56,3 +56,15 @@ Notions:
    * ```display: inline-block;```
    * ```display: flex;```
 
+5. ###   Position
+Lien vers le challenge: [Position](https://github.com/JulianaOliveiraMelo/challenge_layout)  
+#### Les challenges 4 et 5 ont étais faits dans le même repos
+Notions: 
+* Le positionnement "manuel" hors du flux avec la propriété ```position```
+  * ```statis```: reste dans le flux
+  * ```relatice```: sors du flux mais ne perds pas çà place
+  * ```absolute```: sors complètement du flux et perds çà place
+  * ```fixed```: reste fixe (ne bouge pas de place)
+* ```border-radius``` et ```line-height```
+* Les transitions au survol d'un élément (ou d'un parent) avec ```transition``` et ```:hover```
+* Les CSS generators pour les propriétés qu'on arrive jamais à retenir
