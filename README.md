@@ -120,3 +120,17 @@ Notions:
    * Tout le code dans un seul objet
    * Une méthode init() pour lancer d'une seul instruction
 
+10. ### Events
+
+Lien vers le challenge: [Challenge Dice Roller](https://github.com/JulianaOliveiraMelo/challenge_dice_roller)  
+
+Notions:  
+ * Valeur et référence
+   * Les valeurs de type scalaire (Boolean, Number, String)
+   * Les valeurs de type non scalaire (Array, Objet)
+ * écouteurs d'événement
+   * Le paramètre ```event```, des fonctions callbacks
+ * Structure module, la suite
+   * ```app```
+   * la méthode ```init```
+   * les callbacks d'événement
