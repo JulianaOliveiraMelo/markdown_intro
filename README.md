@@ -56,7 +56,7 @@ Notions:
    * ```display: inline-block;```
    * ```display: flex;```
 
-5. ###   Position
+5. ### Position
 Lien vers le challenge: [Position](https://github.com/JulianaOliveiraMelo/challenge_layout)  
 #### Les challenges 4 et 5 ont étais faits dans le même repos
 Notions: 
@@ -68,3 +68,12 @@ Notions:
 * ```border-radius``` et ```line-height```
 * Les transitions au survol d'un élément (ou d'un parent) avec ```transition``` et ```:hover```
 * Les CSS generators pour les propriétés qu'on arrive jamais à retenir
+
+
+6. ### Challenge Paire Programing
+7. ### Forms
+Lien vers le challenge: [Forms](https://github.com/JulianaOliveiraMelo/challenge_forms)  
+
+Notions:  
+* Les formulaires HTML
+* Un peu plus de CSS
