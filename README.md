@@ -146,3 +146,10 @@ Notions:
  * ```for``` dans un ```for```
  * ```forEach``` dans les tableaux
 
+13. ### ES6
+
+Lien vers le challenge: [Challenge Zelda](https://github.com/JulianaOliveiraMelo/challenge_zelda)  
+
+Notions:  
+ * ES6: let / const, fonctions fléchées, opérateur de décomposition  
+
