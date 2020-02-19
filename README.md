@@ -201,3 +201,15 @@ Notions:
      * app.get
      * app.use
      * l'orde de chaînage des middlewares est importante
+
+
+  19. ### GET et POST
+
+  Liens vers les challenges:
+  [Challenge calculette](https://github.com/JulianaOliveiraMelo/challenge_calculette)  
+  [Challenge Tablify](https://github.com/JulianaOliveiraMelo/challenge_tablify)  
+
+  Notions:  
+   * Deux méthodes HTTP pour envoyer des données à un serveurs  
+   * ```express.urlencoded({extended: true})``` => ```request.body```
+   * Encore des Middlewares
