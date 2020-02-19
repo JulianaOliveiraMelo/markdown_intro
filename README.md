@@ -172,7 +172,17 @@ Notions:
 
 Lien vers le challenge: [Challenge Book Shelf](https://github.com/JulianaOliveiraMelo/challenge_bookshelf)
 
+
 Notions:
  * Express: le module le plus téléchargé
  * Routes et routes dynamiques
  * Router (rangement)
+
+ 16. ### Vues  
+
+ Lien vers le challenge: [challenge Worldtime](https://github.com/JulianaOliveiraMelo/challenge_worldtime)  
+
+ Notions:  
+  * EJS: moteur template
+  * Syntaxe EJS ```<%>``` - ```include```
+  * ```express.static``` pour les contenues statiques (css, js front, images)
