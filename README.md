@@ -153,6 +153,8 @@ Lien vers le challenge: [Challenge Zelda](https://github.com/JulianaOliveiraMelo
 Notions:  
  * ES6: let / const, fonctions fléchées, opérateur de décomposition  
 
+## Saison 3 JavaScript
+
 
 14. ### Node, modules,rangement  
 
@@ -185,4 +187,16 @@ Notions:
  Notions:  
   * EJS: moteur template
   * Syntaxe EJS ```<%>``` - ```include```
-  * ```express.static``` pour les contenues statiques (css, js front, images)
+  * ```express.static``` pour les contenues statiques (css, js front, images)  
+
+
+  17. ### Middlewares
+
+  Lien vers le challenge: [Challenge Game Center](https://github.com/JulianaOliveiraMelo/challenge_gamecenter)  
+
+  Notions:  
+   * Middleware
+   * Express = un moteur de middlewares
+     * app.get
+     * app.use
+     * l'orde de chaînage des middlewares est importante
