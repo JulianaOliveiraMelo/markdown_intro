@@ -153,3 +153,16 @@ Lien vers le challenge: [Challenge Zelda](https://github.com/JulianaOliveiraMelo
 Notions:  
  * ES6: let / const, fonctions fléchées, opérateur de décomposition  
 
+
+14. ### Node, modules,rangement  
+
+Lien vers le challenge: [Challenge ettehcruof (Fourchette à l'envers)](https://github.com/JulianaOliveiraMelo/challenge_ettehcruof)  
+
+Notions:  
+ * Les modules recuperée avec ```require```
+ * Serveur HTTP en JavaScript
+  * Une requette => une réponse
+  * Route = URL
+  * Routage simple
+  * CommonJS: ```require``` et ```module.exports```
+  * NPM
