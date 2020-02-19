@@ -190,9 +190,10 @@ Notions:
   * ```express.static``` pour les contenues statiques (css, js front, images)  
 
 
-  17. ### Middlewares
+  17. ### Pair Programing
+  18. ### Middlewares
 
-  Lien vers le challenge: [Challenge Game Center](https://github.com/JulianaOliveiraMelo/challenge_gamecenter)  
+  Lien vers le challenge: [Challenge Game Center en Paire Programing](https://github.com/JulianaOliveiraMelo/challenge_gamecenter)  
 
   Notions:  
    * Middleware
