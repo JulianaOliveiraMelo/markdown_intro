@@ -222,8 +222,8 @@ Notions:
 
 Liens vers les challenges:  
 
-[Challenge Trombin](https://github.com/JulianaOliveiraMelo/challenge_trombin_oclock)
-[Challenge O'Fig]()
+[Challenge Trombin](https://github.com/JulianaOliveiraMelo/challenge_trombin_oclock)  
+[Challenge O'Fig](https://github.com/JulianaOliveiraMelo/challenge_ofig)  
 
 Notions:  
  * Gestion de projets (GDP)
