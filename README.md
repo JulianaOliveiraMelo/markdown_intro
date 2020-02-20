@@ -252,4 +252,31 @@ Notions:
  * Microdonées (itemscope, itemtype, itemprop, content)
 
 
-## Saison 5 JavaScript
+## Saison 5 JavaScript  
+
+Notions:  
+ * Décortiquer un besoin
+ * Users Cases (Découpage des actions)
+ * Wireframes (Interface utilisateur)
+ * MCD (Oragnisation de la BDD
+ * Découverte du DP Factory
+ * Présentation sur forme de class plus universel
+ * Héritage de class
+ * propriété static
+ * Active Record
+ * Méthode Static
+ * Instanciation à l'intérieur d'une class
+ * Active Record dans le CoreModel
+ * différence entre this dans une méthode d'instance et this dans une méthode statique
+ * listage des propriétés d'une instance
+ * ORM
+ * CoreModel
+ * Sequelize
+ * Modelisation des relations dans Sequelize
+ * AUTH & Rôles
+ * Authentification
+ * Session utilisateur
+ * Restriction d'accès
+ * Promesses JavaScript
+ * ```then()``` et ```catch()```
+ * ```async``` et ```await```
