@@ -254,6 +254,8 @@ Notions:
 
 ## Saison 5 JavaScript  
 
+Lien vers le Challenge: [Challenge O'Quizz](https://github.com/JulianaOliveiraMelo/challenge_oquizz)
+
 Notions:  
  * Décortiquer un besoin
  * Users Cases (Découpage des actions)
