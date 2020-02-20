@@ -219,3 +219,37 @@ Notions:
   Lien vers le challenge: [Challenge Solo Oblog](https://github.com/JulianaOliveiraMelo/challenge_oblog)
 
 ## Saison 4 JavaScript
+
+Liens vers les challenges:  
+
+[Challenge Trombin](https://github.com/JulianaOliveiraMelo/challenge_trombin_oclock)
+[Challenge O'Fig]()
+
+Notions:  
+ * Gestion de projets (GDP)
+   * Kanban
+   * Scrum
+   * Wireframe
+ * Ajout des controllers
+ * Paramètres de requêtes permettent de créer des routes dynamiques
+ * Dotenv
+ * Organisation d'une base de données:
+   * MCD
+   * MLD
+ * Introduction aux premières requêtes SQL
+ * Installer et configurer un serveur PostgreSQL
+ * Principaux instructions SQL
+ * Accès à un serveur PostgreSQL via un module Node
+ * Fonctions CallBack
+ * création d'un nouveau module "dataMapper" permettant d'y ranger les méthodes d'accès aux données et les implementer dans les controllers
+ * Mise en place de formulaires
+ * Routage avec la méthode POST
+ * Politique de redirection, suite à une soumission de formulaire
+ * Création et lecture de cookie
+ * Mise en place d'un middleware de gestion de sessions
+ * Jointures SQL
+ * SEO
+ * Microdonées (itemscope, itemtype, itemprop, content)
+
+
+## Saison 5 JavaScript
