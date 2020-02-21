@@ -287,7 +287,7 @@ Notions:
 
 ## Projet Okanban
 
-Lien vers le Challenge: [Challenge O'Kanban]()
+Lien vers le Challenge: [Challenge O'Kanban](https://github.com/JulianaOliveiraMelo/challenge_okanban)
 
  * Une todolist maison
  * Des listes, des cartes, des tags
