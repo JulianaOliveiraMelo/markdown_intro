@@ -282,3 +282,40 @@ Notions:
  * Promesses JavaScript
  * ```then()``` et ```catch()```
  * ```async``` et ```await```
+
+# Saison 6 et 7
+
+## Projet Okanban
+
+Lien vers le Challenge: [Challenge O'Kanban]()
+
+ * Une todolist maison
+ * Des listes, des cartes, des tags
+ * Une interface ultradynamique avec AJAX
+ * Une API ultra-robuste avec Sequelize
+
+
+# Saison 8
+
+## Journée AdminSys
+
+* Connaître les bases
+* Déployer une appli sur AWS (O'Kanban)
+
+
+## Journée Strapi
+
+* Installer Strapi
+* Connaître les bases de Strapi
+
+## Journée NoSQL et MongoDB
+
+* NoSQL = Not only SQL (y'a pas que SQL)
+* MongoDB => SBDG orienté documents, non structuré
+* Le module node mongodb
+
+## Journée un peut de tout
+
+* SassMeister
+* front
+* back
