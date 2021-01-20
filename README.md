@@ -24,7 +24,7 @@
 Possibilité de voir tout ou long de ce document
 
 2. ### L'architecte et le décorateur  
-Lien vers le challenge:  [Recette de Pancakes](https://github.com/JulianaOliveiraMelo/challenge_recette_pancakes)  
+Lien vers le challenge:  [Recette de Pancakes](https://github.com/JulianaOliveiraMelo/challenge_recette_pancakes_index)  
 
 Notions: 
 * HTML
