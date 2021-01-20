@@ -64,7 +64,7 @@ Lien vers le challenge: [Position](https://github.com/JulianaOliveiraMelo/challe
 Notions: 
 * Le positionnement "manuel" hors du flux avec la propriété ```position```
   * ```statis```: reste dans le flux
-  * ```relatice```: sors du flux mais ne perds pas çà place
+  * ```relative```: sors du flux mais ne perds pas çà place
   * ```absolute```: sors complètement du flux et perds çà place
   * ```fixed```: reste fixe (ne bouge pas de place)
 * ```border-radius``` et ```line-height```
